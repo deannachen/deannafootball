@@ -1,0 +1,57 @@
+[
+  [
+    {
+      "name": "vs squad",
+      "labels": [
+        "ACDC",
+        "SPR",
+        "VHSR",
+        "HSR",
+        "Distance"
+      ],
+      "values": [
+        1.038095,
+        1.375,
+        1.4,
+        1.25616,
+        1.082109
+      ]
+    },
+    {
+      "name": "vs position",
+      "labels": [
+        "ACDC",
+        "SPR",
+        "VHSR",
+        "HSR",
+        "Distance"
+      ],
+      "values": [
+        0.939655,
+        1.110092,
+        1.193182,
+        1.230266,
+        1.065932
+      ]
+    }
+  ],
+  [
+    {
+      "name": "vs World Cup benchmark",
+      "labels": [
+        "Overall*",
+        "ACDC",
+        "SPR",
+        "VHSR",
+        "Distance"
+      ],
+      "values": [
+        0.91,
+        0.86,
+        0.74,
+        0.96,
+        1.1
+      ]
+    }
+  ]
+]

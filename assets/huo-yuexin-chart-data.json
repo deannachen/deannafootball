@@ -1,0 +1,40 @@
+[
+  [
+    {
+      "name": "vs position mean",
+      "labels": [
+        "ACDC",
+        "SPR",
+        "VHSR",
+        "HSR",
+        "Distance"
+      ],
+      "values": [
+        0.865217,
+        1.0625,
+        1.160976,
+        0.983137,
+        0.888861
+      ]
+    }
+  ],
+  [
+    {
+      "name": "World Cup benchmark",
+      "labels": [
+        "Overall*",
+        "ACDC",
+        "SPR",
+        "VHSR",
+        "Distance"
+      ],
+      "values": [
+        0.82,
+        0.86,
+        0.6,
+        0.87,
+        0.95
+      ]
+    }
+  ]
+]
