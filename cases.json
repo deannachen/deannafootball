@@ -1,0 +1,212 @@
+[
+  {
+    "year": 2026,
+    "name": "Wurigumula",
+    "type": "Player transfer",
+    "subtitle": "China international",
+    "description": "Joined Montpellier Women.",
+    "image": "assets/cases/case-01.jpg"
+  },
+  {
+    "year": 2026,
+    "name": "Shao Ziqin",
+    "type": "Player transfer",
+    "subtitle": "China international",
+    "description": "Jiangsu Yinhao Women → Benfica Women.",
+    "image": "assets/cases/shao-ziqin-benfica.jpg"
+  },
+  {
+    "year": 2026,
+    "name": "Miguel Santos & coaching staff",
+    "type": "Coaching appointment",
+    "subtitle": "",
+    "description": "Appointed to lead Jiangsu Yinhao Women.",
+    "image": "assets/cases/case-03.jpg"
+  },
+  {
+    "year": 2024,
+    "name": "Ante Milicic & coaching staff",
+    "type": "Coaching appointment",
+    "subtitle": "",
+    "description": "Appointed to lead the China women’s national team.",
+    "image": "assets/cases/case-04.jpg"
+  },
+  {
+    "year": 2024,
+    "name": "Opah Clement",
+    "type": "Player transfer",
+    "subtitle": "Tanzania international",
+    "description": "Beşiktaş → Henan Women.",
+    "image": "assets/cases/case-05.jpg"
+  },
+  {
+    "year": 2023,
+    "name": "Zhao Yuxin",
+    "type": "Player transfer",
+    "subtitle": "China international",
+    "description": "Meizhou Hakka Women → Wuhan Jiangda Women.",
+    "image": "assets/cases/case-06.jpg"
+  },
+  {
+    "year": 2022,
+    "name": "Jocelyn Prêcheur",
+    "type": "Coaching appointment",
+    "subtitle": "",
+    "description": "Appointed Head Coach of Meizhou Hakka Women.",
+    "image": "assets/cases/case-07.jpg",
+    "career_note": "Former Head Coach of London City Lionesses and Paris Saint-Germain Women."
+  },
+  {
+    "year": 2021,
+    "name": "Zhao Yuxin",
+    "type": "Player transfer",
+    "subtitle": "China international",
+    "description": "BG Phoenix Women → Meizhou Hakka Women.",
+    "image": "assets/cases/case-08.jpg"
+  },
+  {
+    "year": 2021,
+    "name": "Li Yuhang",
+    "type": "Player transfer",
+    "subtitle": "",
+    "description": "BG Phoenix Women → Sichuan Women.",
+    "image": null
+  },
+  {
+    "year": 2021,
+    "name": "Peng Shimeng",
+    "type": "Player loan",
+    "subtitle": "China international",
+    "description": "Loan from Jiangsu Suning Women to Meizhou Hakka Women.",
+    "image": "assets/cases/peng-shimeng-world-cup.jpg"
+  },
+  {
+    "year": 2021,
+    "name": "Zhao Jintong",
+    "type": "Player transfer",
+    "subtitle": "",
+    "description": "Jiangsu Suning Women → Meizhou Hakka Women.",
+    "image": null
+  },
+  {
+    "year": 2021,
+    "name": "Charlène Meyong",
+    "type": "Player transfer",
+    "subtitle": "Cameroon international",
+    "description": "Joined Meizhou Hakka Women.",
+    "image": "assets/cases/case-12.jpg"
+  },
+  {
+    "year": 2021,
+    "name": "Chinwendu Ihezuo",
+    "type": "Player transfer",
+    "subtitle": "Nigeria international",
+    "description": "Joined Meizhou Hakka Women.",
+    "image": "assets/cases/case-13.jpg"
+  },
+  {
+    "year": 2020,
+    "name": "Zhao Yuxin",
+    "type": "Player transfer",
+    "subtitle": "China international",
+    "description": "Hebei Elite Women → BG Phoenix Women.",
+    "image": "assets/cases/case-14.jpg"
+  },
+  {
+    "year": 2020,
+    "name": "Li Yuhang",
+    "type": "Player transfer",
+    "subtitle": "",
+    "description": "Hebei Elite Women → BG Phoenix Women.",
+    "image": null
+  },
+  {
+    "year": 2019,
+    "name": "Thembi Kgatlana",
+    "type": "Player transfer",
+    "subtitle": "South Africa international · African Women’s Player of the Year",
+    "description": "Houston Dash → BG Phoenix Women.",
+    "image": "assets/cases/case-16.jpg"
+  },
+  {
+    "year": 2019,
+    "name": "Linda Motlhalo",
+    "type": "Player transfer",
+    "subtitle": "South Africa international",
+    "description": "Houston Dash → BG Phoenix Women.",
+    "image": "assets/cases/case-17.jpg"
+  },
+  {
+    "year": 2019,
+    "name": "Zhang Linyan",
+    "type": "Player transfer",
+    "subtitle": "China international",
+    "description": "Evergrande Football School → BG Phoenix Women.",
+    "image": "assets/cases/case-18.jpg"
+  },
+  {
+    "year": 2019,
+    "name": "Chinwendu Ihezuo",
+    "type": "Player transfer",
+    "subtitle": "Nigeria international",
+    "description": "Shymkent → Henan Huishang Women.",
+    "image": "assets/cases/case-19.jpg"
+  },
+  {
+    "year": 2018,
+    "name": "Kim Björkegren",
+    "type": "Coaching appointment",
+    "subtitle": "",
+    "description": "Appointed Head Coach of BG Phoenix Women.",
+    "image": "assets/cases/case-20.jpg",
+    "career_note": "Later appointed Head Coach of the Ghana women’s national team."
+  },
+  {
+    "year": 2018,
+    "name": "Elena Sadiku",
+    "type": "Coaching appointment",
+    "subtitle": "",
+    "description": "Joined BG Phoenix Women as Assistant Coach.",
+    "image": "assets/cases/case-21.jpg"
+  },
+  {
+    "year": 2018,
+    "name": "Liu Shanshan",
+    "type": "Player transfer",
+    "subtitle": "China international",
+    "description": "Hebei Women → BG Phoenix Women.",
+    "image": "assets/cases/case-22.jpg"
+  },
+  {
+    "year": 2018,
+    "name": "Zhao Rong",
+    "type": "Player transfer",
+    "subtitle": "China international",
+    "description": "Returned from Changchun Women to BG Phoenix Women.",
+    "image": "assets/cases/case-23.jpg"
+  },
+  {
+    "year": 2018,
+    "name": "Yang Man",
+    "type": "Player loan",
+    "subtitle": "China international",
+    "description": "Loan from Shandong Jinhua Women to BG Phoenix Women.",
+    "image": "assets/cases/case-24.jpg"
+  },
+  {
+    "year": 2018,
+    "name": "Verónica Boquete",
+    "type": "Player transfer",
+    "subtitle": "Spain international",
+    "description": "PSG Women → BG Phoenix Women.",
+    "image": "assets/cases/case-25.jpg"
+  },
+  {
+    "year": 2018,
+    "name": "Marija Banusic",
+    "type": "Player transfer",
+    "subtitle": "Sweden U23 international",
+    "description": "Linköping Women → BG Phoenix Women.",
+    "image": "assets/cases/case-26.jpg"
+  }
+]

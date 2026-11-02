@@ -219,5 +219,17 @@
         "U20 Asian Cup semifinalist and U20 World Cup Round of 16."
       ]
     ]
+  },
+  {
+    "id": "song-lijuan",
+    "name": "Song Lijuan",
+    "group": "Midfielders",
+    "role": "Defensive Midfielder / No. 6 / No. 8 / Deep-lying playmaker",
+    "age": 18,
+    "height": "164",
+    "weight": "55",
+    "photo": "assets/song-lijuan-photo.jpg",
+    "video": "https://v.youku.com/v_show/id_XNjU4MDAzMzU1Mg==.html?spm=a2hkn.playlist.myhome.d_1&playMode=pugv",
+    "profile_page": null
   }
 ]

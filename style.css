@@ -11,3 +11,7 @@
 .chart-plot{padding-right:34px}.chart-axis{margin-right:34px}
 
 header nav{font-size:16px} @media(max-width:560px){header nav{font-size:14px;gap:12px}header{flex-wrap:wrap;gap:16px}}
+
+.work-banner{display:grid;grid-template-columns:1fr 1fr;min-height:425px;margin:10px 0 65px;background:#211a30;border:1px solid #ffffff20}.work-banner-copy{padding:45px;align-self:center}.work-banner h2{font-size:clamp(34px,4vw,52px);line-height:1.1;letter-spacing:-1.8px;margin:20px 0}.work-banner-copy>p:not(.eyebrow){font-size:16px;color:#c9bfd5;max-width:400px}.work-banner .button{font-size:16px;gap:30px}.work-banner-image{position:relative;min-height:425px;overflow:hidden}.work-banner-image img{width:100%;height:100%;position:absolute;object-fit:cover;object-position:50% 37%}.work-banner-image:after{content:'';position:absolute;inset:0;background:linear-gradient(0deg,#101018dd,transparent 45%)}.work-banner-image span{position:absolute;z-index:1;bottom:22px;left:24px;font-size:12px;color:#fff}@media(max-width:650px){.work-banner{grid-template-columns:1fr}.work-banner-copy{padding:30px}.work-banner-image{min-height:380px}}
+
+.song-role-detail{font-size:.86em;color:#b9accb}.card[data-name="song lijuan"] .card-visual>img{object-position:50% 32%}
